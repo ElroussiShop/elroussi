@@ -1,1 +1,1 @@
-# django-ecommerce-master
+# ecommerce
